@@ -1,8 +1,8 @@
 # Win Paing Soe
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Linux System Administrator | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+Application Engineer with over 4 years of experience in the banking and Fintech sectors. Demonstrates expertise in T24 Software installation, JBoss Installation, Oracle Database Administration, virtualization, containerization, and Linux System and Server Administration. Proficient in cloud technology and cloud infrastructure environments. Committed to continuous learning and staying current with the latest technology trends. Dedicated to contributing to team success and advancing financial technology.
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
